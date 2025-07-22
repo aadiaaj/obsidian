@@ -1,0 +1,11 @@
+Snapshots: 
+- What differentiates me on assignments I’m working on? 
+- What impact am I making? 
+- What differentiates me on assignments I’m working on? 
+- What impact am I making? 
+- Make sure having a constant conversation with RL (biweekly/monthly) + Project Supervisor
+- Is this a good stopping point? 
+- Is there more to do on this project, can I get another snapshot or at least a significant portion included in another snapshot. 
+- I try to not send snapshots for less than 160 hours 
+- snapshots of more than 300 hours are probably too large. 
+- You're aiming for 6-12 snapshots a year (see the hour range above) 

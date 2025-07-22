@@ -1,0 +1,7 @@
+- add navbar
+- remove code snippets
+- add in theme
+- use shadcn theme page as reference:
+	- total revenue and team member -> typography
+	- subs and chat -> buttons
+	- calendar, move goal, and exercise minutes -> forms
